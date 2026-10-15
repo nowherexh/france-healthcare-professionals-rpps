@@ -1,0 +1,18 @@
+{
+  "rpps": "10000000000",
+  "profession": "Pharmacien",
+  "specialty": null,
+  "exerciseMode": "Libéral",
+  "sector": "Officine",
+  "lastName": "EXEMPLE",
+  "firstName": "Claire",
+  "workplace": {
+    "name": "PHARMACIE DE LA GARE",
+    "siret": "00000000000000",
+    "address": {
+      "postalCode": "33000",
+      "city": "BORDEAUX",
+      "department": "33"
+    }
+  }
+}
